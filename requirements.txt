@@ -1,0 +1,7 @@
+pdfplumber
+PyMuPDF
+faiss-cpu
+transformers
+sentence-transformers
+streamlit
+pyngrok
