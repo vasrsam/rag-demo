@@ -19,8 +19,9 @@ give answer from external learning (i.e minimum halluciation).
 <img width="1786" height="980" alt="image" src="https://github.com/user-attachments/assets/d0802cf4-1c3f-4027-9e3d-f0a8b29f6e66" />
 
 **Models used**:
-**Embedding model** used for encoding chunks and query: all-MiniLM-L6-v2
 
-**LLM used** for answering query: mistral-7b-instruct-v0.1
+*Embedding model* used for encoding chunks and query: all-MiniLM-L6-v2
+
+*LLM used* for answering query: mistral-7b-instruct-v0.1
 
 
