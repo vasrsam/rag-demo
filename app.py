@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 from rag_classes import SemanticRAG, AnswerQuestion
 
 # --------------------------
-# Page Configuration
+# Page Configuration #
 # --------------------------
 st.set_page_config(page_title="RAG Chat", page_icon="🧠", layout="wide")
 st.title("🧠 RAG Chat Interface")

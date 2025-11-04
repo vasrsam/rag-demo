@@ -7,7 +7,7 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-
+# SemanticRAG
 class SemanticRAG:
     def __init__(self, index_path, metadata_csv_path, embedding_model_name):
         self.index = faiss.read_index(index_path)
