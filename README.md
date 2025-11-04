@@ -20,6 +20,7 @@ give answer from external learning (i.e minimum halluciation).
 
 **Models used**:
 **Embedding model** used for encoding chunks and query: all-MiniLM-L6-v2
+
 **LLM used** for answering query: mistral-7b-instruct-v0.1
 
 
